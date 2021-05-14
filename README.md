@@ -1,4 +1,4 @@
-## Code for content moderation papers @ ICWSM 2019 & AAAI 2020.
+## Code for two content moderation papers @ ICWSM 2019 & AAAI 2020.
 
 ### Papers:
 **Bias Misperceived: The Role of Partisanship and Misinformation in YouTube Comment Moderation**  
